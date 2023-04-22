@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ObjectDeliverer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c2612cff517c48bca7dd080299d97ca8"
+		},
+		{
+			"Name": "TDxUnrealEditor",
+			"Enabled": true
+		}
+	]
+}

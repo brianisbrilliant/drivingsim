@@ -1,11 +1,8 @@
 # drivingsim
 An unreal project to talk to the driving sim at WSU.
 
-The Message "#id Unreal\n" works great.
-the message "~M 0 0 0 0 0 0 2 0 0 0 0 9.81 0 0 0" does not. When SimCorDX gets it, it has a space in front of it and another gibberish character. I don't know why.
-
-// okay! I've got it working.
-// let's test it all!
+// Okay! I've got it working.
+// Let's test it all!
 
 Manually moving the xyz position.
 X slides the platform forward and back (NOT touchy, had it to +-90 and it was only moderate movement.
